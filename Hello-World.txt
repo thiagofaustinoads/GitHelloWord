@@ -1,0 +1,5 @@
+Hello World
+
+git clone
+git status
+git add - adiciona arquivos
